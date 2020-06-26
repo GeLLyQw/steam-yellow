@@ -1,0 +1,5 @@
+outputs/
+tmp/
+src/
+node_modules/
+login.json
